@@ -7,5 +7,3 @@
 - Install dependencies
 
 - Enjoy.
-
-Link to article: _Coming soon_
